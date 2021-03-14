@@ -1,5 +1,4 @@
 # Developer Training Courses
 Catalog of developer training courses built using ReactJS
-
-## Resources
+[View Demo](https://stopdaydreaming.github.io/octo-developer-training-courses/)
 
