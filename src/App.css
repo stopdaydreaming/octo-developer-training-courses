@@ -6,7 +6,7 @@
 .btn-tomato {
   background-color: tomato;
   color: white;
-  border-radius: 1em;
+  border-radius: 0.50em;
   padding: 0.65em;
   border: none;
   text-transform: uppercase;
