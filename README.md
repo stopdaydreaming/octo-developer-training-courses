@@ -26,7 +26,7 @@ Catalog of developer training courses built using ReactJS
 5. Run `npm start`
 5. Open your browser to localhost with the port address
 ### Steps required to run online
-Click this link to [VIEW APP](https://stopdaydreaming.github.io/octo-developer-training-courses/)
+Click this link to [VIEW APP](https://octo-developer-training.herokuapp.com/)
 
 
 ## Usage 
@@ -34,7 +34,7 @@ This code should be used for the purpose of creating/editing code for a simple p
 ![training](./src/assets/screenshot.png)
 
 ## View Website
-Click here to view the live website [VIEW APP](https://stopdaydreaming.github.io/octo-developer-training-courses/)
+Click here to view the live website [VIEW APP](https://octo-developer-training.herokuapp.com/)
 
 
 ## Credits
