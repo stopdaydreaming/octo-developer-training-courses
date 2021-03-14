@@ -20,7 +20,7 @@ const Categories = () => {
         <i className="fas fa-code"></i> business
       </Button>
       <Button variant="light" className="mr-3 mb-3">
-        <i className="fas fa-code"></i> expressjs
+        <i className="fas fa-code"></i> express js
       </Button>
       <Button variant="light" className="mr-3 mb-3">
         <i className="fas fa-code"></i> games
@@ -41,7 +41,7 @@ const Categories = () => {
         <i className="fas fa-code"></i> mobile
       </Button>
       <Button variant="light" className="mr-3 mb-3">
-        <i className="fas fa-code"></i> nodejs
+        <i className="fas fa-code"></i> node js
       </Button>
       <Button variant="light" className="mr-3 mb-3">
         <i className="fas fa-code"></i> photoshop
@@ -50,10 +50,10 @@ const Categories = () => {
         <i className="fas fa-code"></i> polymer
       </Button>
       <Button variant="light" className="mr-3 mb-3">
-        <i className="fas fa-code"></i> react
+        <i className="fas fa-code"></i> react js
       </Button>
       <Button variant="light" className="mr-3 mb-3">
-        <i className="fas fa-code"></i> self
+        <i className="fas fa-code"></i> self-improvement
       </Button>
       <Button variant="light" className="mr-3 mb-3">
         <i className="fas fa-code"></i> wordpress
