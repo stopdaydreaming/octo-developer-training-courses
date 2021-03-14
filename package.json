@@ -2,7 +2,7 @@
   "name": "octo-developer-training-courses",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stopdaydreaming.github.io/octo-developer-training-courses/",
+  "homepage": "https://stopdaydreaming.github.io/octo-developer-training-courses",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
