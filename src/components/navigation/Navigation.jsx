@@ -7,7 +7,7 @@ const Navigation = () => {
     <>
       <Navbar expand="lg" bg="dark" variant="dark" className="mb-5">
         <Navbar.Brand href="#home">
-            <h3><i className="fas fa-laptop-code"></i> Developer Online Training </h3>
+            <h3 className="ml-3 mt-2"><i className="fas fa-laptop-code"></i> Developer Online Training </h3>
             </Navbar.Brand>
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
