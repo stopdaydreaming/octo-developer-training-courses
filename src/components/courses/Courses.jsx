@@ -4,11 +4,15 @@ import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Table from "react-bootstrap/Table";
 
+import Categories from "../categories/Categories";
+
 import courses from "../../data/courses.js";
 
 const Courses = () => {
   return (
-    <div className="mt-5">
+    <div>
+    <Categories />
+    <div className="mt-4">
       {/* // if course is js, give it js badge */}
       <h1>Currently Enrolled Courses</h1>
 
@@ -38,6 +42,7 @@ const Courses = () => {
           </Table>
         </Col>
       </Row>
+    </div>
     </div>
   );
 };
