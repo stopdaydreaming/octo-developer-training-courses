@@ -3,19 +3,19 @@
 }
 
 /* //theming */
-/* .btn-tomato {
+.btn-tomato {
   background-color: tomato;
   color: white;
-  border-radius: 10rem;
+  border-radius: 1em;
+  padding: 0.65em;
+  border: none;
+  text-transform: uppercase;
 }
 .btn-tomato:hover {
   background-color: white;
   color: tomato;
+  border: solid 1px tomato;
 }
-.btn-xxl {
-  padding: 1rem 1.5rem;
-  font-size: 1.5rem;
-}  */
 .fas.fa-code {
   color: tomato;
 }
